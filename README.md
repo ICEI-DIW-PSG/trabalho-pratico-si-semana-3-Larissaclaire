@@ -10,15 +10,15 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Larissa Claire Barros Domingos
+- Matricula: 902483
+- Proposta de projeto escolhida: Blog de arte em Belo Horizonte 
+- Breve descrição sobre seu projeto: O Projeto escolhido tem como tema mostrar artistas e exposicões de arte por BH, sendo de pessoas renomadas,ou iniciantes na carreira.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+[!homepage_artelife](/public/ARTELIFE_projetohomepage.png)
 
 
 ## Print da home-page criada
