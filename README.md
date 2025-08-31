@@ -18,10 +18,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print do(s) wireframe(s) criado
 
-[!homepage_artelife](/public/img/homepage.png)
+[!homepage_artelife](public/img/homepage.png)
 
 
 ## Print da home-page criada
 
-[!captela_homepage_artelife](/public/img/captelahomepage.png.png)
-[!captela1_homepage_artelife](/public/img/captelahomepage1.png.png)
+[!captela_homepage_artelife](public/img/captelahomepage.png.png)
+[!captela1_homepage_artelife](public/img/captelahomepage1.png.png)
